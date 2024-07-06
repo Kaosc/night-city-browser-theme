@@ -61,7 +61,8 @@
          "128": "128.png"
       },
       "images": {
-         "theme_toolbar": "images/background_gradient.png"
+         "theme_toolbar": "images/background_gradient.png",
+         "theme_ntp_background": "./images/night_city.png"
       },
       "tints": {
          "buttons": [
