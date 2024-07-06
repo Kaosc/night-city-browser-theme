@@ -1,9 +1,9 @@
 {
-   "version": "1.1",
+   "version": "1.2",
    "author": "Kaosc",
-   "description": "Dark theme for Chrome",
+   "description": "Dark theme for Brave & Chrome",
    "manifest_version": 3,
-   "name": "Night Night",
+   "name": "Night City",
    "theme": {
       "colors": {
          "bookmark_text": [
@@ -62,7 +62,7 @@
       },
       "images": {
          "theme_toolbar": "images/background_gradient.png",
-         "theme_ntp_background": "./images/night_city.png"
+         "theme_ntp_background": "images/night_city.png"
       },
       "tints": {
          "buttons": [
